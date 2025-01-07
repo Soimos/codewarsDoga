@@ -8,8 +8,7 @@ function getCount(str) {
       if (inpLetter === vowel) {
         vC++;
       }
-    });
-  });
+    }); });
   return vC;
 }
 
